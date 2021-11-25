@@ -1,0 +1,7 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: hsl(0, 24%, 96%);
+}

@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.header {
+    max-width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
